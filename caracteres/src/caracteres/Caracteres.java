@@ -18,7 +18,7 @@ public class Caracteres {
         // TODO code application logic here
          var alumno = "Marcos";
          var titulo = "informatico";
-
+         System.out.println("hola");
          var concat = titulo + " " + alumno;
 
         System.out.println("concat = " + concat);
